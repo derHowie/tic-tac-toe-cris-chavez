@@ -11,15 +11,15 @@ This is an example of what's expected:
 
 - Start button
 - You need to play against the CPU
-- At the end of the game, it should mention who's the winner.
-- You should be able to play
+- At the end of the game, it should mention who's the winner
+- You should be able to play again
 - If you don't have your React Native envionment set up, you should still be able to do it using https://snack.expo.io/
 
 **Bonus Points:**
 
 - Nice UI
-- Algorithm usage 
-- Other features that you might want to add.
+- Correct Algorithm usage 
+- Other features that you might want to add
 
 You have 3 hours to complete it. 
 
