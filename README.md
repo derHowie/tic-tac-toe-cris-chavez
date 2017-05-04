@@ -6,7 +6,7 @@ This is an example of what's expected:
 
 [ INSERT GIF HERE ]
 
-Requirements:
+**Requirements: **
 
 - Start button
 - You need to play against the CPU
@@ -14,14 +14,13 @@ Requirements:
 - You should be able to play
 - If you don't have your React Native envionment set up, you should still be able to do it using https://snack.expo.io/
 
-Bonus Points: 
+**Bonus Points: **
 
 - Nice UI
 - Algorithm usage 
 - Other features that you might want to add.
 
 You have 3 hours to complete it. 
-
 
 # Get Started
 
