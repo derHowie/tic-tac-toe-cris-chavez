@@ -11,7 +11,7 @@ This is an example of what's expected:
 
 - Start button
 - You need to play against the CPU
-- At the end of the game, it should mention who's the winner
+- At the end of the game, it should mention who's the winner or if it was a draw
 - You should be able to play again
 - If you don't have your React Native envionment set up, you should still be able to do it using https://snack.expo.io/
 
