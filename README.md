@@ -4,7 +4,8 @@ The goal of this challenge is to create a Tic Tac Toe game from scratch, using R
 
 This is an example of what's expected:
 
-[ INSERT GIF HERE ]
+![example](http://g.recordit.co/8EXjyG2rxX.gif "This is an example of what's expected:")
+
 
 **Requirements:**
 
